@@ -17,7 +17,6 @@ I am a dedicated lifelong learner in Information Technology and DevOps, committe
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns and state management
 - Kubernetes & container orchestration
 
 
